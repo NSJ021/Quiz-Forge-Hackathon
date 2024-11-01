@@ -3,7 +3,7 @@
 ## Overview
 
 ### Purpose
-Quiz forge is designed to be a revision tool in the form of an online quiz. The primary focus is programming questions. However other topics have been considered. [Live Project](https://guymitchy.github.io/hackathon/) available here.
+Quiz forge is designed to be a revision tool in the form of an online quiz. The primary focus is programming questions. However other topics have been considered. [Live Project](https://nsj021.github.io/Quiz-Forge-Hackathon/) available here.
 
 <p align="center">
 <img src="assets/readMe Images/final-product.png" alt="Image of final MVP product">
